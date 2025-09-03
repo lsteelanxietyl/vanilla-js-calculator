@@ -65,7 +65,7 @@ body {
 
 @media (max-width: 768px) {
   .main-container {
-    flex-direction: column;
+    flex-direction: column-reverse;
     gap: 25px 0;
     align-items: center;
     justify-content: center;
