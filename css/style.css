@@ -10,7 +10,6 @@ body {
 }
 
 .main-container {
-  border: 2.5px solid black;
   max-width: 768px;
   min-height: 321px;
   margin: 75px auto;
