@@ -35,4 +35,4 @@ Supports basic arithmetic operations and features a responsive layout for mobile
 ## 📂 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/vanilla-js-calculator.git
+   git clone https://github.com/lsteelanxietyl/vanilla-js-calculator.git
